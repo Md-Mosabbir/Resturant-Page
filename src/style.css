@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#content{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0)) ,url("/src/assets/DALL·E\ 2023-02-17\ 14.54.00\ -\ An\ image\ of\ a\ bengali\ biriyani\ with\ a\ dark\ background\ for\ the\ homepage\ of\ a\ resturent\ website\ 4K.\ \ .png");
+	background-size: cover;
+    background-position: center;
+	background-repeat: no-repeat;
+	
+}
