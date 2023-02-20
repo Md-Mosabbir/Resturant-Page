@@ -1,1 +1,3 @@
-console.log('I want Freedom')
+import { initialPageLoader } from './initial-page-loader'
+
+initialPageLoader()
