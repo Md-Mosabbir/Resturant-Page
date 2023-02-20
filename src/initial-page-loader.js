@@ -1,4 +1,5 @@
 export function initialPageLoader () {
+  const contentID = document.getElementById('content')
   // Making the navigation bar
   const navigationContainer = document.createElement('div')
   navigationContainer.classList.add('nav')
@@ -33,4 +34,10 @@ export function initialPageLoader () {
   navigationList.appendChild(navigationLineHome)
   navigationList.appendChild(navigationLineMenu)
   navigationList.appendChild(navigationLineContact)
+
+  navigationLinks.appendChild(navigationList)
+
+  navigationContainer.appendChild(navigationLogo)
+  navigationContainer.appendChild(navigationLinks)
+  contentID.appendChild(navigationContainer)
 }
