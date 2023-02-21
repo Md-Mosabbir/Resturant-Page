@@ -1,5 +1,7 @@
 export function initialPageLoader () {
-  const contentID = document.getElementById('content')
+  const contentID = document.querySelector('#content')
+
+  contentID.replaceChildren()
 
   const mainContent = document.createElement('main')
   mainContent.classList.add('main-text')

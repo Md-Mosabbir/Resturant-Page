@@ -1,5 +1,7 @@
 export function menuPage () {
-  const contentID = document.getElementById('content')
+  const contentID = document.querySelector('#content')
+
+  contentID.replaceChildren()
 
   const menuContainer = document.createElement('div')
   menuContainer.classList.add('menu-container')
@@ -46,5 +48,4 @@ export function menuPage () {
   menuContainer.appendChild(biriyaniFourDiv)
 
   contentID.appendChild(menuContainer)
-
 }

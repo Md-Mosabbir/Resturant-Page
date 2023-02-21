@@ -1,5 +1,7 @@
 export function contact () {
-  const contentID = document.getElementById('content')
+  const contentID = document.querySelector('#content')
+
+  contentID.replaceChildren()
 
   const contactFormContainer = document.createElement('div')
   const phoneNumber = document.createElement('h1')
