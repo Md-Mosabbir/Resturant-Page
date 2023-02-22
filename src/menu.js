@@ -1,3 +1,4 @@
+import './menu.css'
 export function menuPage () {
   const contentID = document.querySelector('#content')
 

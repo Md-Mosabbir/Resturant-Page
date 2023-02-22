@@ -68,6 +68,9 @@ nav{
     font-size: 25px;
 }
 
+.logo:hover{
+    cursor: pointer;
+}
 
 body{
 

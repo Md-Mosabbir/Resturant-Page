@@ -12,12 +12,9 @@ export function initialPageLoader () {
   const headerSubtitle = document.createElement('h3')
   headerSubtitle.textContent = 'A Vhalo Experience'
 
-  const exploreButton = document.createElement('button')
-  exploreButton.textContent = 'Explore'
 
   mainContentDiv.appendChild(headerTitle)
   mainContentDiv.appendChild(headerSubtitle)
-  mainContentDiv.appendChild(exploreButton)
   mainContent.appendChild(mainContentDiv)
   contentID.appendChild(mainContent)
 }
