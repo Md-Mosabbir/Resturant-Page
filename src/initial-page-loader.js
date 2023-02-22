@@ -1,4 +1,4 @@
-import './initial-page-loader.css'
+
 export function initialPageLoader () {
   const contentID = document.querySelector('#content')
 

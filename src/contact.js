@@ -1,4 +1,4 @@
-import './contact.css'
+
 export function contact () {
   const contentID = document.querySelector('#content')
 
