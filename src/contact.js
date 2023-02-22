@@ -1,4 +1,4 @@
-
+import './assets/restaurant-location.png'
 export function contact () {
   const contentID = document.querySelector('#content')
 
