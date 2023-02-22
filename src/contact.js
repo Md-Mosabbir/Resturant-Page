@@ -1,9 +1,11 @@
+import './contact.css'
 export function contact () {
   const contentID = document.querySelector('#content')
 
   contentID.replaceChildren()
 
   const contactFormContainer = document.createElement('div')
+  contactFormContainer.classList.add('contact-container')
   const phoneNumber = document.createElement('h1')
   phoneNumber.textContent = 'Phone-Number: +880123456789'
 

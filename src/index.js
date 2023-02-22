@@ -2,7 +2,7 @@ import { initialPageLoader } from './initial-page-loader'
 import { contact } from './contact'
 import { menuPage } from './menu'
 
-initialPageLoader()
+contact()
 
 // eslint-disable-next-line no-unused-vars
 const tabSwitchingModule = (function () {
