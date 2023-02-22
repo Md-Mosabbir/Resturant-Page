@@ -12,7 +12,6 @@ export function initialPageLoader () {
   const headerSubtitle = document.createElement('h3')
   headerSubtitle.textContent = 'A Vhalo Experience'
 
-
   mainContentDiv.appendChild(headerTitle)
   mainContentDiv.appendChild(headerSubtitle)
   mainContent.appendChild(mainContentDiv)
