@@ -136,7 +136,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _initial_page_loader__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./initial-page-loader */ \"./src/initial-page-loader.js\");\n/* harmony import */ var _contact__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./contact */ \"./src/contact.js\");\n/* harmony import */ var _menu__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./menu */ \"./src/menu.js\");\n/* harmony import */ var _main_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./main.css */ \"./src/main.css\");\n\n\n\n\n\n(0,_initial_page_loader__WEBPACK_IMPORTED_MODULE_0__.initialPageLoader)()\n// eslint-disable-next-line no-unused-vars\nconst tabSwitchingModule = (function () {\n  const logo = document.querySelector('.logo')\n  const homeButton = document.getElementById('home')\n  const menuButton = document.getElementById('menu')\n  const contactButton = document.getElementById('contact')\n\n  homeButton.addEventListener('click', _initial_page_loader__WEBPACK_IMPORTED_MODULE_0__.initialPageLoader)\n  logo.addEventListener('click', _initial_page_loader__WEBPACK_IMPORTED_MODULE_0__.initialPageLoader)\n  menuButton.addEventListener('click', _menu__WEBPACK_IMPORTED_MODULE_2__.menuPage)\n  contactButton.addEventListener('click', _contact__WEBPACK_IMPORTED_MODULE_1__.contact)\n})()\n\n\n//# sourceURL=webpack://resturant-page/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _initial_page_loader__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./initial-page-loader */ \"./src/initial-page-loader.js\");\n/* harmony import */ var _contact__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./contact */ \"./src/contact.js\");\n/* harmony import */ var _menu__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./menu */ \"./src/menu.js\");\n/* harmony import */ var _main_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./main.css */ \"./src/main.css\");\n/* harmony import */ var _assets_DALL_E_2023_02_17_14_52_47_An_image_of_a_bengali_biriyani_with_a_dark_background_for_the_homepage_of_a_resturent_website_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/DALL·E 2023-02-17 14.52.47 - An image of a bengali biriyani with a dark background for the homepage of a resturent website. .png */ \"./src/assets/DALL·E 2023-02-17 14.52.47 - An image of a bengali biriyani with a dark background for the homepage of a resturent website. .png\");\n/* harmony import */ var _assets_DALL_E_2023_02_17_14_53_24_An_image_of_a_bengali_biriyani_with_a_dark_background_for_the_homepage_of_a_resturent_website_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/DALL·E 2023-02-17 14.53.24 - An image of a bengali biriyani with a dark background for the homepage of a resturent website. .png */ \"./src/assets/DALL·E 2023-02-17 14.53.24 - An image of a bengali biriyani with a dark background for the homepage of a resturent website. .png\");\n/* harmony import */ var _assets_DALL_E_2023_02_17_14_54_00_An_image_of_a_bengali_biriyani_with_a_dark_background_for_the_homepage_of_a_resturent_website_4K_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/DALL·E 2023-02-17 14.54.00 - An image of a bengali biriyani with a dark background for the homepage of a resturent website 4K.  .png */ \"./src/assets/DALL·E 2023-02-17 14.54.00 - An image of a bengali biriyani with a dark background for the homepage of a resturent website 4K.  .png\");\n/* harmony import */ var _assets_DALL_E_2023_02_17_14_57_43_different_styles_of_biriyani_with_bengali_essence_for_resturant_menu_page_presentation_that_will_attract_anyone_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/DALL·E 2023-02-17 14.57.43 - different styles of biriyani with bengali essence for resturant menu page presentation that will attract anyone.png */ \"./src/assets/DALL·E 2023-02-17 14.57.43 - different styles of biriyani with bengali essence for resturant menu page presentation that will attract anyone.png\");\n/* harmony import */ var _assets_restaurant_location_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./assets/restaurant-location.png */ \"./src/assets/restaurant-location.png\");\n\n\n\n\n// pictures\n\n\n\n\n\n\n(0,_initial_page_loader__WEBPACK_IMPORTED_MODULE_0__.initialPageLoader)()\n// eslint-disable-next-line no-unused-vars\nconst tabSwitchingModule = (function () {\n  const logo = document.querySelector('.logo')\n  const homeButton = document.getElementById('home')\n  const menuButton = document.getElementById('menu')\n  const contactButton = document.getElementById('contact')\n\n  homeButton.addEventListener('click', _initial_page_loader__WEBPACK_IMPORTED_MODULE_0__.initialPageLoader)\n  logo.addEventListener('click', _initial_page_loader__WEBPACK_IMPORTED_MODULE_0__.initialPageLoader)\n  menuButton.addEventListener('click', _menu__WEBPACK_IMPORTED_MODULE_2__.menuPage)\n  contactButton.addEventListener('click', _contact__WEBPACK_IMPORTED_MODULE_1__.contact)\n})()\n\n\n//# sourceURL=webpack://resturant-page/./src/index.js?");
 
 /***/ }),
 
@@ -160,6 +160,26 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+/***/ "./src/assets/DALL·E 2023-02-17 14.52.47 - An image of a bengali biriyani with a dark background for the homepage of a resturent website. .png":
+/*!*****************************************************************************************************************************************************!*\
+  !*** ./src/assets/DALL·E 2023-02-17 14.52.47 - An image of a bengali biriyani with a dark background for the homepage of a resturent website. .png ***!
+  \*****************************************************************************************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"9c5950751029e6d1b1a3.png\";\n\n//# sourceURL=webpack://resturant-page/./src/assets/DALL%C2%B7E_2023-02-17_14.52.47_-_An_image_of_a_bengali_biriyani_with_a_dark_background_for_the_homepage_of_a_resturent_website._.png?");
+
+/***/ }),
+
+/***/ "./src/assets/DALL·E 2023-02-17 14.53.24 - An image of a bengali biriyani with a dark background for the homepage of a resturent website. .png":
+/*!*****************************************************************************************************************************************************!*\
+  !*** ./src/assets/DALL·E 2023-02-17 14.53.24 - An image of a bengali biriyani with a dark background for the homepage of a resturent website. .png ***!
+  \*****************************************************************************************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"b926c7eb5df6bdb66019.png\";\n\n//# sourceURL=webpack://resturant-page/./src/assets/DALL%C2%B7E_2023-02-17_14.53.24_-_An_image_of_a_bengali_biriyani_with_a_dark_background_for_the_homepage_of_a_resturent_website._.png?");
+
+/***/ }),
+
 /***/ "./src/assets/DALL·E 2023-02-17 14.54.00 - An image of a bengali biriyani with a dark background for the homepage of a resturent website 4K.  .png":
 /*!*********************************************************************************************************************************************************!*\
   !*** ./src/assets/DALL·E 2023-02-17 14.54.00 - An image of a bengali biriyani with a dark background for the homepage of a resturent website 4K.  .png ***!
@@ -167,6 +187,26 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"1c23e4cc3d98771f562b.png\";\n\n//# sourceURL=webpack://resturant-page/./src/assets/DALL%C2%B7E_2023-02-17_14.54.00_-_An_image_of_a_bengali_biriyani_with_a_dark_background_for_the_homepage_of_a_resturent_website_4K.__.png?");
+
+/***/ }),
+
+/***/ "./src/assets/DALL·E 2023-02-17 14.57.43 - different styles of biriyani with bengali essence for resturant menu page presentation that will attract anyone.png":
+/*!*********************************************************************************************************************************************************************!*\
+  !*** ./src/assets/DALL·E 2023-02-17 14.57.43 - different styles of biriyani with bengali essence for resturant menu page presentation that will attract anyone.png ***!
+  \*********************************************************************************************************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"bb91395ecea70732d827.png\";\n\n//# sourceURL=webpack://resturant-page/./src/assets/DALL%C2%B7E_2023-02-17_14.57.43_-_different_styles_of_biriyani_with_bengali_essence_for_resturant_menu_page_presentation_that_will_attract_anyone.png?");
+
+/***/ }),
+
+/***/ "./src/assets/restaurant-location.png":
+/*!********************************************!*\
+  !*** ./src/assets/restaurant-location.png ***!
+  \********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"5d4ead59a4044100f85f.png\";\n\n//# sourceURL=webpack://resturant-page/./src/assets/restaurant-location.png?");
 
 /***/ })
 
