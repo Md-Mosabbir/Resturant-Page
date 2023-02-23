@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@300;900&display=swap');
 *{
     margin: 0;
@@ -76,7 +77,7 @@ nav{
 body{
 
     height: 100vh;
-    background-image: linear-gradient(rgba(97, 97, 97, 0.281), rgb(0, 0, 0)) ,url("/src/assets/DALL·E\ 2023-02-17\ 14.54.00\ -\ An\ image\ of\ a\ bengali\ biriyani\ with\ a\ dark\ background\ for\ the\ homepage\ of\ a\ resturent\ website\ 4K.\ \ .png");
+    background-image: linear-gradient(rgba(97, 97, 97, 0.281), rgb(0, 0, 0)) ,url("/src/assets/biriyani3.png");
 	background-size: cover;
     background-position: center;
 	background-repeat: no-repeat;
@@ -102,6 +103,7 @@ body{
 .contact-container > *{
     padding: 10px;
 }
+
 .contact-container h1,
 .contact-container h2{
     font-family: var(--main-font-family);

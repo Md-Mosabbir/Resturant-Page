@@ -1,4 +1,4 @@
-import './assets/restaurant-location.png'
+import resturentLocation from './assets/restaurant-location.png'
 export function contact () {
   const contentID = document.querySelector('#content')
 
@@ -13,7 +13,7 @@ export function contact () {
   adressNumber.textContent = 'Hollywood Boulevard 42, Los Angeles, USA'
 
   const locationImage = document.createElement('img')
-  locationImage.src = '/src/assets/restaurant-location.png'
+  locationImage.src = resturentLocation
 
   contactFormContainer.appendChild(phoneNumber)
   contactFormContainer.appendChild(adressNumber)
