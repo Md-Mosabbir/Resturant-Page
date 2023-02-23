@@ -1,6 +1,7 @@
 import birianiOne from './assets/biriyani1.png'
 import birianiTwo from './assets/biriyani2.png'
 import birianiThree from './assets/biriyani3.png'
+import kichuri from './assets/kichuri.png'
 
 export function menuPage () {
   const contentID = document.querySelector('#content')
@@ -40,7 +41,7 @@ export function menuPage () {
   const biriyaniFourDiv = document.createElement('div')
   biriyaniFourDiv.classList.add('biriyani')
   const biriyaniFourImage = document.createElement('img')
-  biriyaniFourImage.src = '/src/assets/kichuri.png'
+  biriyaniFourImage.src = kichuri
   const biriyaniFourName = document.createElement('h2')
   biriyaniFourName.textContent = 'Bengali Khicuri'
   biriyaniFourDiv.appendChild(biriyaniFourImage)
